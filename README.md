@@ -1,1 +1,2 @@
 # Gitskills
+Test for clone.
